@@ -1,0 +1,5 @@
+com\SeleniumDev\pageObjects\AboutPage.class
+com\SeleniumDev\testCases\BaseClass.class
+com\SeleniumDev\testCases\TestClass.class
+com\SeleniumDev\utilities\Reporting.class
+com\SeleniumDev\pageObjects\HomePage.class

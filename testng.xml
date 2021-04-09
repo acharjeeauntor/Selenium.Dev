@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+		<listener class-name="com.SeleniumDev.utilities.Reporting" />
+	</listeners>
+  <test name="Selenium Dev Test">
+    <classes>
+      <class name="com.SeleniumDev.testCases.TestClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
